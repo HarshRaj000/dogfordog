@@ -144,7 +144,7 @@ img.cross {
 }
 
 .hello {
-    background-image: url(file:///C:/Users/ASUS/Desktop/practice,B2b/dashbord/img/banner_img.jpg);
+    background-image: url(../img/banner_img.jpg);
     height: 100%;
     min-height: 700px;
     background-size: cover;
@@ -224,7 +224,7 @@ a.sss_bss.bs_ss_ap_ff {
 
 .arrow::before {
     position: absolute;
-    background-image: url(file:///C:/Users/ASUS/Desktop/practice,B2b/dashbord/png/arrow.png);
+    background-image: url(../png/arrow.png);
     content: "";
     top: 50%;
     left: 0%;
@@ -238,7 +238,7 @@ a.sss_bss.bs_ss_ap_ff {
 
 .arrow::after {
     position: absolute;
-    background-image: url(file:///C:/Users/ASUS/Desktop/practice,B2b/dashbord/png/arrow.png);
+    background-image: url(../png/arrow.png);
     content: "";
     top: 50%;
     right:-100px;
@@ -262,7 +262,7 @@ background:#FCF9F2;
 }
 
 .highlight{
-    background-image:url("file:///C:/Users/ASUS/Desktop/practice,B2b/dashbord/png/highlights.svg");
+    background-image:url(../png/highlights.svg);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -284,7 +284,7 @@ ul li a {
 }
 
 .last_bg_img {
-    background-image: url(file:///C:/Users/ASUS/Desktop/practice,B2b/dashbord/png/bone.png);
+    background-image: url(../png/bone.png);
     height: 100%;
     background-size:cover;
     background-position:center;
@@ -499,7 +499,7 @@ input.inputemail {
     display: none;
 }
 .bg-img{
-    background-image: url(file:///C:/Users/ASUS/Desktop/practice,B2b/dashbord/img/bg_img_phn.png);
+    background-image: url(../img/bg_img_phn.png);
     display: block;
     background-size: cover;
     min-height: 970px;
@@ -527,7 +527,7 @@ input.inputemail {
 }
 
 .last_bg_img1{
-    background-image: url(file:///C:/Users/ASUS/Desktop/practice,B2b/dashbord/png/bone1d.png);
+    background-image: url(../png/bone1d.png);
     min-height:230px;
     background-size:cover;
     background-position:center;
